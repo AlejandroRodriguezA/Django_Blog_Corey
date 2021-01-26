@@ -1,1 +1,1 @@
-web: gunicorn Landing_AJ.wsgi --log-file 
+web: gunicorn Landing_AJ.wsgi
