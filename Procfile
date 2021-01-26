@@ -1,1 +1,1 @@
-web: gunicorn Landing_AJ.wsgi 
+web: gunicorn Landing_AJ.wsgi --preload
