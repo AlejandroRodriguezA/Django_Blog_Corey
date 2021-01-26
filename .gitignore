@@ -1,5 +1,6 @@
 #Autosave file in mac
 .DS_Store
+media/recovery-codes.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
