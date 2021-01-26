@@ -1,1 +1,1 @@
-web: gunicorn Landing_AJ.wsgi --preload
+web: gunicorn Landing_AJ.wsgi --log-file 
